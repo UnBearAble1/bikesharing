@@ -6,10 +6,33 @@ This study reviews citibike's bike sharing information from New York City to det
 
 ## Results
 
-The first item rviewed was trip duration
+The first item reviewed was trip duration. A large amount of trips are under 20 minutes and the vast majority under one hour.
 
 ![](https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(1).png)
 
+The second item reviewed was the duration of each trip broekn out by gender
+
+![](https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(2).png)
+
+Third was the heavy hours of use for the service. Heavy hours of use show the service is used during commuting hours, potentially as an alternative to driving. Weekend use is spread out during daytime hours
+
+![](https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(3).png)
+
+The next item reviewed the hours of use for the service broken out by gender. Males and Females use the service in a similar distribution, but as shown previously with males utilizing the service more frequently.
+
+![](https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(4).png)
+
+The next item reviewed was a break out of utilization between single use cusotmers and subscrbers during the week, also broken out by gender. Following the trend, male subscripers make up the large majority of users. Subscribers also use the service more than customers, though customers peak during the weekends
+
+![](https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(5).png)
+
+To further determine the suitability of Des Moines, the trip starting and ending locations were shown. This can be used to see if Des Moines has a similar area that could experience similar usage.
+
+![Staring Location
+](https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(6).png)
+
+![Ending Location
+](https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(7).png)
 
 ## Summary
 
