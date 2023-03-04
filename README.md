@@ -32,7 +32,7 @@ Trips start centralized in this area
 
 ![Staring Location](https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(6).png)
 
-Trips end here, matches closely with where the trips start
+Trips end here, matching closely with where the trips start
 
 ![Ending Location](https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(7).png)
 
