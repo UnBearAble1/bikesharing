@@ -8,7 +8,7 @@ This study reviews citibike's bike sharing information from New York City to det
 
 The first item rviewed was trip duration
 
-!(https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(1).png)
+![](https://github.com/UnBearAble1/bikesharing/blob/main/Resources/Business%20Plan%20Slide%20(1).png)
 
 
 ## Summary
